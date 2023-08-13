@@ -12,9 +12,9 @@ x3 files
 3. video.mp4
 
 
-index.html 
+# index.html 
 
-  <!DOCTYPE html>
+ ### <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -38,7 +38,7 @@ index.html
   </div>
 </body>
 
-style.css
+# style.css
 
 *,
 ::before,
@@ -53,4 +53,4 @@ body {
   background: #f1f1f1;
 }
 
-CCmatrix.mp4 (in website root directory)
+# CCmatrix.mp4 (in website root directory)
